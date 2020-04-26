@@ -1,16 +1,23 @@
-# meal_app
 
-A new Flutter project.
+<h1 align="center">
+ 
+  Meal APP
+  <br>
+</h1>
 
-## Getting Started
+<h4 align="center">A minimal Meal mobile app made using <a href="https://flutter.dev" target="_blank">Flutter</a>.</h4>
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="screenshots/screen01.jpg" width="200" />
+  <img src="screenshots/screen02.jpg" width="200" /> 
+  <img src="screenshots/screen03.jpg" width="200" />
+    <img src="screenshots/screen04.jpg" width="200" />
+    <img src="screenshots/screen05.jpg" width="200" />
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## Key Features
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* Filter Meals
+* All Meals have Ingredient & Steps 
+* Add Favoirtes
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
