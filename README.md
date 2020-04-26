@@ -12,7 +12,7 @@
   <img src="screenshots/screen02.jpg" width="200" /> 
   <img src="screenshots/screen03.jpg" width="200" />
     <img src="screenshots/screen04.jpg" width="200" />
-    <img src="screenshots/screen05.jpg" width="200" />
+  
 </p>
 
 ## Key Features
