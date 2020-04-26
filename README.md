@@ -17,7 +17,8 @@
 
 ## Key Features
 
+* Categories Screen
 * Filter Meals
-* All Meals have Ingredient & Steps 
+* Ingredient & Steps 
 * Add Favoirtes
 
